@@ -3,7 +3,7 @@
 ## 專案簡介
 
 本專案為一套以 Streamlit 為前端的財務數據分析儀表板。資料來源整理、更新及寫入都集中在 `data_pipeline` 資料夾下。前端會讀取本地 `financial_data.db`，並結合各種分析模組，提供單一或多家公司財報視覺化與比對功能。
-https://financialdashboard-gn4mai6agt5prjdfay69rq.streamlit.app/
+(streamlit預覽)https://financialdashboard-gn4mai6agt5prjdfay69rq.streamlit.app/
 
 
 ## 安裝與執行方式
